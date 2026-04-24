@@ -1,0 +1,5 @@
+name: OnCall-Env
+version: 1.0.0
+description: "The L1 SRE Simulator"
+author: "Hackathon Team"
+entrypoint: "environment:OnCallEnvironment"
