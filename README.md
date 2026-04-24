@@ -1,3 +1,12 @@
+---
+title: OnCall-Env
+emoji: 🚨
+colorFrom: blue
+colorTo: red
+sdk: docker
+pinned: false
+short_description: L1 SRE Simulator for OpenEnv
+---
 # OnCall-Env: The L1 SRE Simulator
 
 ## 🚨 The Problem
