@@ -9,7 +9,7 @@ short_description: L1 SRE Simulator for OpenEnv
 ---
 # OnCall-Env: The L1 SRE Simulator
 
-## 🚨 The Problem
+## The Problem
 Large Language Models struggle with delayed feedback and multi-step diagnostic reasoning. In the real world, Site Reliability Engineers (SREs) do not solve incidents by generating a single paragraph of text; they iteratively query metrics, read logs, form hypotheses, and execute commands. 
 
 `OnCall-Env` is an OpenEnv-compliant simulation that trains and evaluates an LLM's ability to navigate a partially observable server environment to resolve active incidents, pushing beyond shallow next-token prediction into true world modeling.
